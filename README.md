@@ -1,3 +1,3 @@
 # Mestrado em Computação Aplicada
 
-Material from UTFPR master's degree in Computing Applied
+Material da UTFPR do curso de Mestrado em Computação Aplicada
