@@ -1,0 +1,1238 @@
+-------------- Informações sobre os melhores individuos - PENALIZAÇÃO --------------
+Geração:337
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:338
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:339
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:340
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:341
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:342
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:343
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:344
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:345
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:346
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:347
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:348
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:349
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:350
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:351
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:352
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:353
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:354
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:355
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:356
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:357
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:358
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:359
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:360
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:361
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:362
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:363
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:364
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:365
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:366
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:367
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:368
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:369
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:370
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:371
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:372
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:373
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:374
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:375
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:376
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:377
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:378
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:379
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:380
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:381
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:382
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:383
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:384
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:385
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:386
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:387
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:388
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:389
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:390
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:391
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:392
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:393
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:394
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:395
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:396
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:397
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:398
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:399
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:400
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:401
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:402
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:403
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:404
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:405
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:406
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:407
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:408
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:409
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:410
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:411
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:412
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:413
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:414
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:415
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:416
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:417
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:418
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:419
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:420
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:421
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:422
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:423
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:424
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:425
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:426
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:427
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:428
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:429
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:430
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:431
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:432
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:433
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:434
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:435
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:436
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:437
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:438
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:439
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:440
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:441
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:442
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:443
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:444
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:445
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:446
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:447
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:448
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:449
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:450
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:451
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:452
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:453
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:454
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:455
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:456
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:457
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:458
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:459
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:460
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:461
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:462
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:463
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:464
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:465
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:466
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:467
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:468
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:469
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:470
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:471
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:472
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:473
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:474
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:475
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:476
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:477
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:478
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:479
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:480
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:481
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:482
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:483
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:484
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:485
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:486
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:487
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:488
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:489
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:490
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:491
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:492
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:493
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:494
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:495
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:496
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:497
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:498
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+Geração:499
+Numero de Itens:16
+Peso Total:118
+Fitness:176
+Execucao:1
+Mochila:0,0,0,1,0,1,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,1,
+-------------- Metrica para qualidade do algoritmo - PENALIZAÇÃO --------------
+Média de fitness dentre as execuções:142.5092936802974
+Mochilas com o melhor fitness - Quantidade:163
+-------------- Informações sobre o melhor individuo - REPARAÇÃO --------------
+Geração:458
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:459
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:460
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:461
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:462
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:463
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:464
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:465
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:466
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:467
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:468
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:469
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:470
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:471
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:472
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:473
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:474
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:475
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:476
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:477
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:478
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:479
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:480
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:481
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:482
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:483
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:484
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:485
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:486
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:487
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:488
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:489
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:490
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:491
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:492
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:493
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:494
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:495
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:496
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:497
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:498
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Geração:499
+Numero de Itens:18
+Peso Total:120
+Fitness:181
+Execucao:6
+Mochila:0,0,0,1,1,1,0,1,1,0,1,1,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,
+Mochilas com o melhor fitness - Quantidade:42
+-------------- Metrica para qualidade do algoritmo - REPARAÇÃO --------------
+Média de fitness dentre as execuções:159.70322463108033
